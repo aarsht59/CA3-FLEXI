@@ -1,0 +1,6 @@
+{
+  "name": "RentalWheels - Modern Car Rental",
+  "description": "Professional car rental platform with premium fleet explore, details, interactive booking system, user dashboard, and admin fleet management with Node.js and MongoDB support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
